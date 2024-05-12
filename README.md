@@ -9,17 +9,10 @@ We differentiate ourselves from other institutions in our belief that the playab
 # Pillars
 To effectively distribute our work, our Board of Directors has four primary committees that work alongside a general operations committee. These committees are as follows: Museum, Community, Education, and Store. 
 
-### Museum
-Maintain and catalog a collection used to produce educational and entertaining playable exhibits at a rapid pace.
-
-### Community
-Encourage the gathering of individuals interested in digital expression to learn from one another and create a safe, welcoming space.
-
-### Education
-Educate the next generation of digital creators through the critical analysis and creation of digital entertainment media.
-
-### Store
-Provide a vehicle for individuals to support the museum’s services while capturing their costs and impact.
+- Museum: Maintain and catalog a collection used to produce educational and entertaining playable exhibits at a rapid pace.
+- Community: Encourage the gathering of individuals interested in digital expression to learn from one another and create a safe, welcoming space.
+- Education: Educate the next generation of digital creators through the critical analysis and creation of digital entertainment media.
+- Store: Provide a vehicle for individuals to support the museum’s services while capturing their costs and impact.
 
 # Major Board Initiatives
 Many boards approach capacity building by funding a large budget at first. Historically, the museum isn't good at this but, rather, producing value for individuals within community and using that budget to fund the operations of the museum. The museum attracts builders, designers, and people who build and ship real world products.
