@@ -62,4 +62,7 @@ In order to streamline volunteer engagement, individuals within the community mu
 
 
 ## Store
+- MADE Store
+  - 5 days a week, Wednesday to Sunday
+
 
