@@ -6,6 +6,9 @@ Welcome to the MADE's initiatives page! This document will outline big, public-f
 
 We differentiate ourselves from other institutions in our belief that the playable experience of video games and other artifacts must be interactive to be fully understood. To that end, our organization actively explores the spectrum of playable preservation by using all available methods to create our exhibit experience.
 
+# Volunteering Opportunities
+The MADE is always looking for volunteers! From teaching our free game development classes, working on our website, maintaining our exhibits, and bringing the MADE's collection into the community, we've got so much for you to work on. If you're interested, jump over to our project board: [Project Board Here!](https://github.com/orgs/Museum-of-Art-and-Digital-Entertainment/projects/14).
+
 # Key Programs
 ## Museum
 - MADE exhibit floor
