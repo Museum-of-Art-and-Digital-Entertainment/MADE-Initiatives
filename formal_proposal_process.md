@@ -1,9 +1,10 @@
 # Formal Proposal Process
 As a community member or as a volunteer, would you like to make a change to the museum? The MADE's hackerspace lineage encourages this type of engagement; it ensures that the museum remains a place formed by the community for the community. That being said, we still have to stay true to our nonprofit status and our mission of inspiring the next generation of digital creators through playable preservation. This formal process standardizes the request process for all parties involved, helps us come to a mutual understanding of any budgetary needs, and ultimately helps us decide if we should move forward.
 
-This is still a work in progress, so expect some of this to change!
+## Get Started Now!
+Fill out the proposal form! [Link to the Proposal Form](https://www.themade.org/proposals). We'll get back to you as soon as we can!
 
-## Proposed Workflow
+## What to Expect
 1. Requester navigates to a publicly accessible Google Form (link to go here).
 2. Requester fills it out the best of their ability and submits it.
 3. An email is sent to the executive director/volunteer coordinator for triage.
