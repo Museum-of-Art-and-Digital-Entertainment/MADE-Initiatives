@@ -24,7 +24,7 @@ You can also take a look at some of our key programs below; all of these need su
 - MADE Coworking
   - Every Tuesday from noon until 4 pm
 - Digital Creator Hack Night
-  - Every Wednesday from 6 pm to 8 pm
+  - Every Thursday from 6 pm to 8 pm
 - MADE Tournaments
   - Every other Tuesday
 - MADE Forum
